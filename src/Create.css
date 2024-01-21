@@ -1,0 +1,6 @@
+.blog-container{
+    background-image: url('../pexels-bob-clark-21492.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+}
